@@ -11,4 +11,7 @@ class Author
   def post_count 
     @@post_count
   end 
+  
+  def add_post(post)
+    
 end 
